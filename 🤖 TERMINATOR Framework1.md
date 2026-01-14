@@ -1,5 +1,9 @@
 # 🤖 TERMINATOR Framework
 
+
+***Web Procesamiento y Entrenamiento: [WAI.CAM](http://wai.cam)***
+
+
 **Framework de Inferencia Dirigida Multimodal**
 
 Sistema completo para inferencia con modelos de IA, procesamiento de audio/voz, detección de idioma, generación de animaciones 3D, y API REST lista para producción.

@@ -35,7 +35,9 @@ La arquitectura de memoria (unificada o dedicada) ideal depende completamente de
 *   **Memoria Unificada (LPDDR):** Es la reina de la **integración y la eficiencia**. Ofrece un rendimiento excelente y balanceado para sistemas donde el tamaño, el peso, el consumo energético y la capacidad de respuesta general (latencia baja entre CPU y GPU) son críticos.
 
 ---
-*Análisis técnico. Velocidades y anchos de banda son valores típicos de referencia.*
+* Análisis técnico. Velocidades y anchos de banda son valores típicos de referencia.*
+(Donde tambien comprobamos porque las Memorias SSD no deberian subir sus costes, sin abusos materiales de la IA.)
+
 
 
 

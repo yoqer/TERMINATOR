@@ -36,7 +36,7 @@ La arquitectura de memoria (unificada o dedicada) ideal depende completamente de
 
 ---
 * Análisis técnico. Velocidades y anchos de banda son valores típicos de referencia.*
-(Donde tambien comprobamos porque las Memorias SSD no deberian subir sus costes, sin abusos materiales de la IA.)
+(Donde tambien comprobamos porque las Memorias SSD no deberian subir sus costes, sin abusos por materiales por la IA.)
 
 
 

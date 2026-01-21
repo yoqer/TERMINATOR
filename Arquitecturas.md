@@ -55,10 +55,16 @@ ____________________________________________________________________________
 
 ### Conclusiones Clave: 
 
-*-Una vez analizada la Generación de Contenido Visual con IA, con sesgos de Patrones Básicos en de sus Gabinetes Comerciales.*
+*-Una vez analizada Generación de Contenido Visual con IA, con sesgos de Patrones Básicos de Gabinetes Comerciales.*
 
 Como en DeepSeek Engram, al que preguntamos. (El pobrecillo aún no sabe nada, no he querido alarmarle.)
 
 Analizando la tecnología Engram, del nuevo modelo de DeepSeek V4; que usa los patrones básicos para correr en local el modelo fallido del TERMINATOR. 
 (Aclarando el Alto Costo de Tarjetas Nvidia en China y el poco desarrollo de tarjetas locales, aun más caras en Calidad Precio y limitada también su venta.)
+
+
+Ampliaciones explicativas sobre conversación de los Gráficos Comparativos. (Pre 4.0).   
+
+![grok_image_fyubec](https://github.com/user-attachments/assets/1ea92c1f-1fe8-453d-8509-013e6755b1da)
+
 

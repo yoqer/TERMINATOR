@@ -35,7 +35,7 @@ ____________________________________________________________
 
 La arquitectura de memoria (unificada o dedicada) ideal depende completamente del **caso de uso y las prioridades del sistema**. Esta tabla te ayuda a decidir.
 
-| Función / Prioridad del Sistema | Arquitectura Recomendada | Explicación Técnica (¿Por qué?)![grok_image_fyubec](https://github.com/user-attachments/assets/07b58b04-4336-46a7-abcf-59734442766e)
+| Función / Prioridad del Sistema | Arquitectura Recomendada | Explicación Técnica (¿Por qué?)!
  |
 | :--- | :--- | :--- |
 | **Portátil Premium (equilibrio rendimiento/eficacia)** | **Unificada (ej. Strix Halo)** | Elimina el coste energético y físico de una GPU dedicada, permitiendo diseños delgados con gran autonomía y rendimiento integrado muy competente. |

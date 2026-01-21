@@ -1,0 +1,38 @@
+# 📊 Análisis Comparativo: Tecnologías de Memoria y Transferencia
+
+Este documento resume y compara las características clave de diferentes tecnologías de memoria y bus, así como la idoneidad de las arquitecturas de memoria unificada y dedicada para distintas tareas.
+
+## 1. Comparativa de Velocidad y Ancho de Banda
+
+La siguiente tabla compara tecnologías comunes, mostrando su velocidad medida en **MT/s** (Millones de Transferencias por segundo) y el **Ancho de Banda** resultante en GB/s.
+
+| Tipo de Memoria / Bus | Velocidad Típica (MT/s) | Ancho de Bus (bits) | **Ancho de Banda Aprox. (GB/s)** | Contexto |
+| :--- | :--- | :--- | :--- | :--- |
+| **LPDDR5X (Strix Halo)** | 8533 | 128 | **~136.5 GB/s** | Memoria unificada de alta velocidad en portátiles premium. |
+| **DDR5-6000 (PC Gaming)** | 6000 | 64 (por módulo) | **~48 GB/s** (por módulo) | Módulo estándar en PC de escritorio. |
+| **GDDR6 (GPU dedicada)** | 14000 | 128 - 192 | **~336 - 504 GB/s** | Memoria de tarjetas gráficas discretas. |
+| **PCIe 4.0 x4 (SSD NVMe)** | - | - | **~8 GB/s** | Interfaz para unidades de estado sólido rápidas. |
+| **USB 3.2 Gen 2** | - | - | **~1.2 GB/s** | Interfaz para periféricos externos. |
+
+> **Nota:** El ancho de banda se calcula como: `(MT/s * Ancho de Bus en bits) / 8`. Para buses como PCIe o USB, la medida directa es el ancho de banda.
+
+## 2. Guía de Elección: Memoria Unificada vs. Dedicada
+
+La arquitectura de memoria (unificada o dedicada) ideal depende completamente del **caso de uso y las prioridades del sistema**. Esta tabla te ayuda a decidir.
+
+| Función / Prioridad del Sistema | Arquitectura Recomendada | Explicación Técnica (¿Por qué?) |
+| :--- | :--- | :--- |
+| **Portátil Premium (equilibrio rendimiento/eficacia)** | **Unificada (ej. Strix Halo)** | Elimina el coste energético y físico de una GPU dedicada, permitiendo diseños delgados con gran autonomía y rendimiento integrado muy competente. |
+| **Gaming de Altísimo Rendimiento (4K, FPS alto)** | **Dedicada (ej. GeForce RTX)** | La VRAM dedicada (GDDR6/6X/7) ofrece ancho de banda masivo (>500 GB/s) y latencia optimizada, crucial para texturas complejas y alta tasa de frames. |
+| **Estación de Trabajo (Render 3D, Simulación)** | **Dedicada (ej. NVIDIA RTX / AMD Radeon Pro)** | Estas cargas usan la GPU de forma intensiva y constante. La memoria dedicada evita cuellos de botella con la CPU y ofrece la máxima velocidad de cálculo. |
+| **Computación Heterogénea & IA (CPU+GPU colaboran)** | **Depende del balance** | Si el flujo de datos es muy estrecho, la **unificada** reduce la latencia. Para modelos enormes que caben en VRAM, la **dedicada** es más rápida. |
+| **Servidores y Virtualización** | **Dedicada (para VMs con GPU)** | La asignación directa de hardware (GPU física con su VRAM) a máquinas virtuales ofrece el mejor rendimiento y aislamiento. |
+| **Eficiencia Energética Extrema** | **Unificada** | Las memorias como LPDDR5X consumen mucha menos energía que los sistemas con CPU + GPU dedicada + GDDR. |
+| **Factor de Forma Mínimo (Mini PC, Handheld)** | **Unificada** | La integración de todo en un solo chip (SoC) es la única forma viable de lograr un rendimiento potente en espacios muy reducidos. |
+
+### 🔍 Conclusión clave:
+*   **Memoria Dedicada (GDDR):** Es la reina del **rendimiento bruto especializado**. Es la elección cuando el objetivo es la máxima velocidad en tareas que corren predominantemente en la GPU (gráficos, render), sin grandes restricciones de energía, espacio o coste.
+*   **Memoria Unificada (LPDDR):** Es la reina de la **integración y la eficiencia**. Ofrece un rendimiento excelente y balanceado para sistemas donde el tamaño, el peso, el consumo energético y la capacidad de respuesta general (latencia baja entre CPU y GPU) son críticos.
+
+---
+*Documento generado para análisis técnico. Las velocidades y anchos de banda son valores típicos de referencia.*.

@@ -63,7 +63,7 @@ Analizando la tecnología Engram, del nuevo modelo de DeepSeek V4; que usa los p
 (Aclarando el Alto Costo de Tarjetas Nvidia en China y el poco desarrollo de tarjetas locales, aun más caras en Calidad Precio y limitada también su venta.)
 
 
-Ampliaciones explicativas sobre conversación de los Gráficos Comparativos. (Pre 4.0).   
+Ampliaciones explicativas sobre conversación de los Gráficos Comparativos. 4.0.
 
 ![grok_image_fyubec](https://github.com/user-attachments/assets/1ea92c1f-1fe8-453d-8509-013e6755b1da)
 

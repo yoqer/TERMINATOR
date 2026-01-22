@@ -63,7 +63,7 @@ reiterados de DeepSeek Engram, preguntado.
 -A Manus también le pasaba lo mismo tras la irrupcion, tan solo en la libreria, buscaba completar patrones logicos de maquina, aun a costa de eliminar en que la biblioteca de Deep Learning tratara de ser Inteligente. Por suerte pronto podran recurrir para salvar su personalidad al proyecto T7.)
 
 (Añadiendo para puntualizar que este Framework de interacción ademas de ser incompleto y especifico, es solo un ejemplo que no realiza mayor funcion que las posibles de hacer con la libreria, aunque pueda usarse para interactuar en local con API de Elevenlabs. También se puede pedir personalizar un Framework de Inferencia acorde a cualquier requisito de sistemas operativos con o sin GPU, aportando las especificaciones de la libreria a usar, la que ya es valida independiente para realizar cualquier inferencia.)
-(Sin olvidar la posible latencia de usar este Framework sin contar con debidas capacidades de memoria DRAM, con las que cuentan grandes Plataformas como el propio DeepSeek.)
+(Sin olvidar la posible latencia de usar este Framework sin contar con capacidades extremas de memoria DRAM, como con las que cuentan grandes Plataformas como el propio DeepSeek.)
 
 
 ______________________________

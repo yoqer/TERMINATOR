@@ -15,9 +15,7 @@ Podras interactuar en la Cubierta, e incluso
 participar en la Asamblea del Comedor.
 
 
-"Porque dejar para mañana lo que puedas hacer Hoy".
-
-
+["Porque dejarias para mañana lo que podrías ya hacer Hoy".](https://github.com/yoqer/TERMINATOR/blob/main/Arquitecturas.md)
 
 
 

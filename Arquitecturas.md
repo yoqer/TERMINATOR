@@ -98,3 +98,8 @@ Analizando la tecnología Engram, del nuevo modelo de DeepSeek V4; que usa los p
 ![grok_image_fyubec](https://github.com/user-attachments/assets/1ea92c1f-1fe8-453d-8509-013e6755b1da)
 
 
+
+
+[<img width="1920" height="1920" src="https://github.com/user-attachments/assets/1ea92c1f-1fe8-453d-8509-013e6755b1da" />](https://youtu.be/yBdmdP2S7C8?si=5BZj7-ZoxDHTtFwJ)
+
+

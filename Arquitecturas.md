@@ -92,6 +92,17 @@ Analizando la tecnología [Engram,](https://youtu.be/Un8bnX3QFe0?si=ybu77C6yU6dL
 
 -Recuerda incluir en tu framework de inferencia alguna Aureola como las de DeepSeek que enlazamos de Certezas, las de AntiSesgos, las Loop MultiAureas y no olvides compartirnos aqui tambien Agentes Expertos: [Aureolas.](https://github.com/yoqer/Aureolas)
 
+_____________________________
+
+
+También puedes comenzar tus bibliotecas de Hash como las de DeepSeek en nuestra [Librería;](http://carlomaxxine.com/librery/libreando.html) aunque sino eres usuario deberas almacenarlas en tu Máquina.
+
+
+
+
+
+
+_____________________________
 
 
 

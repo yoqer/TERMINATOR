@@ -28,14 +28,25 @@ Esta tabla permite **asociar propiedades técnicas con su valor práctico**:
 
 La "mejor" opción siempre es un **compromiso** (*trade-off*) entre estas propiedades, dictado por el **caso de uso específico** (máximo rendimiento vs. eficiencia vs. coste vs. factor de forma).
 
+Video sobre: 
+[Ryzen](https://youtu.be/181asZ4FJFg?si=JDbR66qEdEWBqEp7)
 
 
-____________________________________________________________________________
+No dejes tampoco de ver algunos otros Modelos de [GPU.](https://youtu.be/C35vETYj2mQ?si=15vYYWd79-fqCykT)
+
+
+__________________________________________________________________________________________
+
 
 
 
 
 Consulta directamente a IAs;  
-"El saber no ocupa lugar".   
+"Pues saber no ocupa lugar".   
 
 [**MobyDep.com**](http://mobydep.com)
+
+
+Recuerda Elige:
+
+Made in Spanish.

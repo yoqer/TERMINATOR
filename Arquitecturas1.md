@@ -35,6 +35,6 @@ ____________________________________________________________________________
 
 
 
-Consulta directamente a IAs; Conocimiento no ocupa lugar.   
+Consulta directamente a IA; "El saber no ocupa lugar".   
 
 [**MobyDep.com**](http://mobydep.com)

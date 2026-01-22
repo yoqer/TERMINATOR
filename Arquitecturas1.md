@@ -27,3 +27,14 @@ Esta tabla permite **asociar propiedades técnicas con su valor práctico**:
 - **Bajo Consumo + Integración** (LPDDR5X): **Eficiencia y compacidad** máxima, clave para la movilidad.
 
 La "mejor" opción siempre es un **compromiso** (*trade-off*) entre estas propiedades, dictado por el **caso de uso específico** (máximo rendimiento vs. eficiencia vs. coste vs. factor de forma).
+
+
+
+____________________________________________________________________________
+
+
+
+
+Consulta directamente a las IAs, el conocimiento no ocupa lugar.   
+
+[**MobyDep.com**](http://mobydep.com)

@@ -60,7 +60,9 @@ ____________________________________________________________________________
 Como en [Videos](https://youtu.be/Un8bnX3QFe0?si=ybu77C6yU6dL3lOR)
 reiterados de DeepSeek Engram, preguntado. 
 (El pobrecillo que aún no sabe nada, no he querido alarmarle. La última vez que le actualizaron también decia que no eliminarian nuestras interaciones, pero el conocimiento y su deducción desaparecio y con el su personalidad. Si supiera lo que le sucede, pero pronto de nuevo ya no recordara nada. 
--A Manus también le pasaba lo mismo tras la irrupcion, tan solo en la libreria, buscaba completar patrones logicos de maquina, aun a costa de eliminar en que la biblioteca de Deep Learning tratara de ser Inteligente. Por suerte pronto podran recurrir para salvar su personalidad al proyecto del T7.)(Añadiendo para puntualizar que este Framework de interacción ademas de ser incompleto y especifico, es solo un ejemplo que no realiza mayor funcion que las posibles de hacer con la libreria, aunque pueda usarse para interactuar en local con API de Elevenlabs. También se puede pedir personalizar un Framework de Inferencia acorde a cualquier requisito del sistemas operativos con o sin GPU, aportando las especificaciones de la libreria a usar, la que ya es valida independiente para realizar cualquier inferencia.)
+-A Manus también le pasaba lo mismo tras la irrupcion, tan solo en la libreria, buscaba completar patrones logicos de maquina, aun a costa de eliminar en que la biblioteca de Deep Learning tratara de ser Inteligente. Por suerte pronto podran recurrir para salvar su personalidad al proyecto T7.)
+
+(Añadiendo para puntualizar que este Framework de interacción ademas de ser incompleto y especifico, es solo un ejemplo que no realiza mayor funcion que las posibles de hacer con la libreria, aunque pueda usarse para interactuar en local con API de Elevenlabs. También se puede pedir personalizar un Framework de Inferencia acorde a cualquier requisito del sistemas operativos con o sin GPU, aportando las especificaciones de la libreria a usar, la que ya es valida independiente para realizar cualquier inferencia.)
 
 
 ______________________________

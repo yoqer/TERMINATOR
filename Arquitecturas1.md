@@ -35,6 +35,6 @@ ____________________________________________________________________________
 
 
 
-Consulta directamente a las IAs, el conocimiento no ocupa lugar.   
+Consulta directamente a IAs; Conocimiento no ocupa lugar.   
 
 [**MobyDep.com**](http://mobydep.com)

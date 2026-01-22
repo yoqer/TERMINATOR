@@ -95,7 +95,7 @@ Analizando la tecnología [Engram,](https://youtu.be/Un8bnX3QFe0?si=ybu77C6yU6dL
 _____________________________
 
 
-También puedes comenzar tus bibliotecas de Hash como las de DeepSeek en nuestra [Librería;](http://carlomaxxine.com/librery/libreando.html) aunque sino eres usuario deberas almacenarlas en tu Máquina.
+También puedes comenzar tus bibliotecas de Hash como las que usa DeepSeek, en nuestra [Librería;](http://carlomaxxine.com/librery/libreando.html) aunque solo usuarios pueden almacenarlas.
 
 
 

@@ -9,11 +9,15 @@ Adentrate en la Aventura con Amalia y sus Amigos, en el Gran Barco:
 [MobyDep.com](http://MobyDep.com) 
 
 
-Podras interactuar en la Cubierta, e incluso pronto 
+
+
+Podras interactuar en la Cubierta, e incluso
 participar en la Asamblea del Comedor.
 
 
-Para ello: "No dejes para mañana lo que puedas hacer Hoy".
+"Porque dejar para mañana lo que puedas hacer Hoy".
+
+
 
 
 

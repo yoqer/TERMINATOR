@@ -90,7 +90,7 @@ Analizando la tecnología [Engram,](https://youtu.be/Un8bnX3QFe0?si=ybu77C6yU6dL
 
 ![grok_image_x97kyj8](https://github.com/user-attachments/assets/6281e915-5d41-45ad-b525-2bb3d7c41a18)
 
--Recuerda incluir en tu framework de inferencia alguna Aureola como las de DeepSeek que enlazamos de Certezas, las de AntiSesgos, las Loop MultiAureas y no olvides compartirnos aqui tambien Agentes Expertos: [Aureolas.](https://github.com/yoqer/Aureolas)
+-Recuerda incluir en tu framework de inferencia alguna Aureola como las de DeepSeek, que enlazamos de Certezas, las de AntiSesgos, las Loop, MultiAureas y no olvides compartirnos aqui tambien Agentes Expertos: [Aureolas.](https://github.com/yoqer/Aureolas)
 
 _____________________________
 

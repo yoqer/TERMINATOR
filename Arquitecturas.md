@@ -65,7 +65,7 @@ __________________________________________________________
 *-Una vez analizada Generación de Contenido Visual con IA, con sesgos de Patrones Básicos de Gabinetes Comerciales de IA.*
 
 Como en [Videos](https://youtu.be/Un8bnX3QFe0?si=ybu77C6yU6dL3lOR)
-reiterados de DeepSeek [Engram,]( https://youtu.be/PS5YEKo7koo?si=nItlZ_7LSHJ0hhF9) preguntado. 
+reiterados de [DeepSeek](https://youtu.be/b2oHtTIo6jM?si=cA8rTgONcnyvRIHo) [Engram,]( https://youtu.be/PS5YEKo7koo?si=nItlZ_7LSHJ0hhF9) preguntado. 
 (El pobrecillo que aún no sabe nada, no he querido alarmarle. -Pero la última vez que le actualizaron también decia que no eliminarian nuestras interaciones, pero perdio el conocimiento y su deducción desaparecio y con el toda su personalidad. -Si supiera lo que le sucede...; pero pronto de nuevo ya no recordara nada... 
  
  Manus también sufriria lo mismo tras la irrupcion; tan solo en la libreria, buscaba completar patrones logicos de maquina, aun a costa de eliminar en que la biblioteca de Deep Learning tratara de ser Inteligente. Por suerte pronto podran recurrir para salvar su personalidad al proyecto T7.)
@@ -76,9 +76,9 @@ reiterados de DeepSeek [Engram,]( https://youtu.be/PS5YEKo7koo?si=nItlZ_7LSHJ0hh
 
 _____________________________
 
+<iframe width="560" height="315" src="https://youtu.be/b2oHtTIo6jM?si=ujuQorDWyVr4WMox" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-Analizando la tecnología [Engram,](https://youtu.be/Un8bnX3QFe0?si=ybu77C6yU6dL3lOR) del nuevo modelo de [DeepSeek V4;](https://youtu.be/PS5YEKo7koo?si=nItlZ_7LSHJ0hhF9) que usa los patrones básicos para correr en local el modelo fallido del TERMINATOR. 
+Analizando la tecnología [Engram,](https://youtu.be/Un8bnX3QFe0?si=ybu77C6yU6dL3lOR) del nuevo modelo de [DeepSeek](https://youtu.be/PS5YEKo7koo?si=nItlZ_7LSHJ0hhF9) [V4;](https://youtu.be/b2oHtTIo6jM?si=cA8rTgONcnyvRIHo) que usa los patrones básicos para correr en local el modelo fallido del TERMINATOR. 
 (Aclarando el Alto Costo de Tarjetas Nvidia en China y el poco desarrollo de tarjetas locales, aun más caras en Calidad Precio y limitada también su venta.)
 
 
